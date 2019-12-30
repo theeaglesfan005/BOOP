@@ -1,0 +1,11 @@
+/Users/theeaglesfan005/OOP/bin/Debug/netcoreapp3.1/OOP
+/Users/theeaglesfan005/OOP/bin/Debug/netcoreapp3.1/OOP.deps.json
+/Users/theeaglesfan005/OOP/bin/Debug/netcoreapp3.1/OOP.runtimeconfig.json
+/Users/theeaglesfan005/OOP/bin/Debug/netcoreapp3.1/OOP.runtimeconfig.dev.json
+/Users/theeaglesfan005/OOP/bin/Debug/netcoreapp3.1/OOP.dll
+/Users/theeaglesfan005/OOP/bin/Debug/netcoreapp3.1/OOP.pdb
+/Users/theeaglesfan005/OOP/obj/Debug/netcoreapp3.1/OOP.csprojAssemblyReference.cache
+/Users/theeaglesfan005/OOP/obj/Debug/netcoreapp3.1/OOP.AssemblyInfoInputs.cache
+/Users/theeaglesfan005/OOP/obj/Debug/netcoreapp3.1/OOP.AssemblyInfo.cs
+/Users/theeaglesfan005/OOP/obj/Debug/netcoreapp3.1/OOP.dll
+/Users/theeaglesfan005/OOP/obj/Debug/netcoreapp3.1/OOP.pdb
